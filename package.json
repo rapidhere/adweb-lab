@@ -1,0 +1,11 @@
+{
+  "name": "fdu-advanced-web-lab1",
+  "description": "a simple node restful example",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.8.3"
+  },
+  "devDependencies": {
+  }
+}
